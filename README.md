@@ -7,6 +7,7 @@
   if you need to, feel free to contact me via <a href="mailto:jasm1nii@proton.me">email 📩</a>
 </p>
 
+[![Top Languages](https://top-languages-brown.vercel.app/api/top-langs/?username=jasm1nii)](https://github.com/anuraghazra/github-readme-stats)
 
 ## some links
 - [creative portfolio](https://jasmineamalia.com/) - features my illustrations and design projects (currently a work in progress)
