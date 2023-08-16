@@ -10,7 +10,7 @@
 
 ## some links
 - [creative portfolio](https://jasmineamalia.com/)
-- [non-professional personal site](https://jasm1nii.xyz/)
+- [non-professional personal site](https://jasm1nii.xyz/) - hand-coded with love!
 
 [![IndieWeb badge](https://indieweb.org/images/4/4a/indiewebcamp-button.png)](https://indieweb.org/) 
 [![Status Cafe profile](https://status.cafe/users/jasm1nii/badge.png)](https://status.cafe/users/jasm1nii)
