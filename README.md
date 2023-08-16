@@ -1,7 +1,7 @@
 # hi there!
 
 <p>
-  i'm a hobbyist web person who just recently started (re)learning HTML and CSS in july 2023. my academic background is in multimedia, an undergraduate specialization under my institution's visual communication design program. hoping to expand my front-end coding skillset with time!
+  i'm a jack-of-all-trades creative who just recently started (re)learning HTML and CSS as a hobby in july 2023. my academic background is in multimedia, an undergraduate specialization under my institution's visual communication design program. hoping to expand my front-end coding skillset with time!
 </p>
 <p>
   if you need to, feel free to contact me via <a href="mailto:jasm1nii@proton.me">email 📩</a>
