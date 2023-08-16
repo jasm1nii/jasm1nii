@@ -9,7 +9,7 @@
 
 
 ## some links
-- [creative portfolio](https://jasmineamalia.com/)
+- [creative portfolio](https://jasmineamalia.com/) - features my illustrations and design projects (currently a work in progress)
 - [non-professional personal site](https://jasm1nii.xyz/) - hand-coded with love!
 
 [![IndieWeb badge](https://indieweb.org/images/4/4a/indiewebcamp-button.png)](https://indieweb.org/) 
