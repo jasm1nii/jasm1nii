@@ -10,11 +10,6 @@
 - [creative portfolio](https://jasmineamalia.com/) - features my illustrations and design projects (currently a work in progress)
 - [non-professional personal site](https://jasm1nii.xyz/) - hand-coded with love!
 
-[![IndieWeb badge](https://indieweb.org/images/4/4a/indiewebcamp-button.png)](https://indieweb.org/) 
-[![status cafe profile](https://status.cafe/users/jasm1nii/badge.png)](https://status.cafe/users/jasm1nii)
-  
-[![part of the 32-bit cafe community](https://32bit.cafe/linktous/32b-pcb.png)](https://32bit.cafe/)
-
 ## some tunes
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=jasm1nii)](https://www.last.fm/user/jasm1nii)
 
