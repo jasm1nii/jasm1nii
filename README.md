@@ -1,8 +1,8 @@
 # hi there!
 
-<p>
-  i'm a jack-of-all-trades creative who just recently started (re)learning HTML and CSS as a hobby in july 2023. my academic background is in multimedia, an undergraduate specialization under my institution's visual communication design program. hoping to expand my front-end coding skillset with time!
-</p>
+i'm a jack-of-all-trades creative who just recently started (re)learning HTML and CSS as a hobby in july 2023, and picked up PHP as a newbie in october 2023! my academic background is in multimedia, an undergraduate specialization under my institution's visual communication design program. hoping to expand my front-end coding skillset with time!
+
+[![top languages widget](https://top-languages-brown.vercel.app/api/top-langs/?username=jasm1nii&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## some links
 - [creative portfolio](https://jasmineamalia.com/) - features my illustrations and design projects (currently a work in progress)
